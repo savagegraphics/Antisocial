@@ -9,7 +9,7 @@ function About() {
                     About ME
                 </h1>
                 <p>
-                    Aspiring Fullstack Web Developer Based in Lagos NigerNameia.
+                    Aspiring Fullstack Web Developer Based in Lagos Nigeria.
                     I build Websites and writes good codes in Javascripts and React, currently working on couple project in order to build my portfolios and CVs
                     so I can put my Worthy Brand on the map and bring the best version of me as a Developer..
                 </p>
