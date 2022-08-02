@@ -15,8 +15,8 @@ function About() {
                 </p>
 
                 <p>
-                    To be very precise at this point,I make websites inpendently from scratch and I believe I've what it takes to work with team of Developers and other stacks in tech so I can influence my career as a Developer and also
-                    I believe I can be a great and supportive teammate that can put everything in the process of being a productive Developer that I'm...
+                    To be very precise at this point, I make websites inpendently from scratch and I believe I also I've what it takes to work with team of Developers and other stacks in tech so I can influence my career as a Developer and also
+                    I believe I can be a great and supportive teammate that can put everything in the process of being a productive Developer...
                 </p>
 
             </div>
